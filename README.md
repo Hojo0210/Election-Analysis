@@ -21,4 +21,4 @@ The results of this election audit determined that:
 - The winner of the election was Diana DeGette, with 272,892 votes and 73.8% of the total votes.
 
 ## Election Audit Summary
-This script could be used in any election with minor changes. By changing the read and write files, we can complete this audit for any election that fits this model. If we were trying to use this script for say a federal election, we would just have to alter the output language from county to state.  
+This script could be used in any election with minor changes. By changing the read and write files, we can complete this audit for any election that fits this model. If we were trying to use this script for say a federal election, we would just have to alter the output language from county to state and add any varialbes that may be required for the results. 
