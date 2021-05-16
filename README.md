@@ -17,7 +17,7 @@ The results of this election audit determined that:
 - The votes for each candidate were:
   - Charles Casper Stockham: 85,213 (23.0%)
   - Diana DeGette: 272,892 (73.8%)
-  - Raymond Anthone Doane: (3.1%)
+  - Raymond Anthone Doane: 11,606 (3.1%)
 - The winner of the election was Diana DeGette, with 272,892 votes and 73.8% of the total votes.
 
 ## Election Audit Summary
